@@ -8,7 +8,6 @@ textblob
 scikit-learn==1.6.1
 xgboost
 lightgbm
-tensorflow
+tensorflow==2.16.1
 afinn
 streamlit
-pyngrok
